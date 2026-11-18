@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="./readme-kit/assets/banner.svg" alt="CHETHAN KUMAR KP — cinematic title card" width="100%"/>
+<img src="./readme-kit/assets/banner.svg" alt="CHETHAN KUMAR — cyberpunk title card" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-OPEN-39FF14?style=for-the-badge&logo=vercel&logoColor=black&labelColor=07040d)](https://chethankumar-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-chethankp365-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=07040d)](https://github.com/chethankp365)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF1F2D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07040d)](https://www.linkedin.com/in/chethan-kumar-kp17/)
-[![Email](https://img.shields.io/badge/EMAIL-chethankp365%40gmail.com-FF1F2D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07040d)](mailto:chethankp365@gmail.com)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-9B4DFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=07040d)](https://www.youtube.com/@CHETHANKUMARKP-v6w)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-chethankumarkp__-9B4DFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=07040d)](https://www.instagram.com/chethankumarkp_/)
-[![Resume](https://img.shields.io/badge/RESUME-VIEW%20CV-FFD400?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=07040d)](https://drive.google.com/file/d/1bOg28m0o9IqXhGO5m-O3vELJD3_1_ZJ-/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-OPEN-05D9E8?style=for-the-badge&logo=vercel&logoColor=black&labelColor=05010c)](https://chethankumar-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-chethankp365-05D9E8?style=for-the-badge&logo=github&logoColor=black&labelColor=05010c)](https://github.com/chethankp365)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FF2A6D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05010c)](https://www.linkedin.com/in/chethan-kumar-kp17/)
+[![Email](https://img.shields.io/badge/EMAIL-chethankp365%40gmail.com-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05010c)](mailto:chethankp365@gmail.com)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-7B2FF7?style=for-the-badge&logo=youtube&logoColor=white&labelColor=05010c)](https://www.youtube.com/@CHETHANKUMARKP-v6w)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-chethankumarkp__-7B2FF7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=05010c)](https://www.instagram.com/chethankumarkp_/)
+[![Resume](https://img.shields.io/badge/RESUME-VIEW%20CV-FFB347?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=05010c)](https://drive.google.com/file/d/1bOg28m0o9IqXhGO5m-O3vELJD3_1_ZJ-/view?usp=sharing)
 
-<img src="https://komarev.com/ghpvc/?username=chethankp365&style=for-the-badge&color=39FF14&label=AUDIENCE&labelColor=07040d" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=chethankp365&style=for-the-badge&color=FF2A6D&label=AUDIENCE&labelColor=05010c" alt="profile views"/>
 
 </div>
 
@@ -44,12 +44,13 @@ An **80-room training platform across 4 tracks** (Red, Blue, Purple, Detection E
 
 `Python` `FastAPI` `Docker` `SQLModel` `PostgreSQL` `WebSockets` `JavaScript` `YAML` `MITRE ATT&CK`
 
-[![Source](https://img.shields.io/badge/SOURCE-NO--ENTRY-FF1F2D?style=for-the-badge&logo=github&labelColor=07040d)](https://github.com/chethankp365/NO-ENTRY) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-no--entry.onrender.com-39FF14?style=for-the-badge&labelColor=07040d)](https://no-entry.onrender.com/)
+[![Source](https://img.shields.io/badge/SOURCE-NO--ENTRY-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=05010c)](https://github.com/chethankp365/NO-ENTRY) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-no--entry.onrender.com-05D9E8?style=for-the-badge&labelColor=05010c)](https://no-entry.onrender.com/)
 
 <details>
 <summary><b>🧠 Deep dive: how one lab session works</b></summary>
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#12062a','primaryBorderColor':'#ff2a6d','primaryTextColor':'#e8f7ff','lineColor':'#05d9e8','actorBkg':'#12062a','actorBorder':'#ff2a6d','actorTextColor':'#e8f7ff','actorLineColor':'#7b2ff7','signalColor':'#05d9e8','signalTextColor':'#e8f7ff','noteBkgColor':'#1b0a36','noteTextColor':'#ffb347'}}}%%
 sequenceDiagram
     autonumber
     participant L as Learner
@@ -74,17 +75,18 @@ sequenceDiagram
 <!-- ============ 02 UDYOGASETHU ============ -->
 <img src="./readme-kit/assets/flow-udyogasethu.svg" width="100%" alt="UdyogaSethu flow"/>
 
-### 🟢 ISSUE #02 · UdyogaSethu — Multilingual Workforce & Farm Marketplace
+### 🔵 ISSUE #02 · UdyogaSethu — Multilingual Workforce & Farm Marketplace
 A **voice-first** mobile platform connecting informal workers and small farmers with customers through **GPS-based matching** and farm-to-consumer commerce. It orchestrates **5 AI services** (Deepgram, Groq, Gemini, OpenRouter, Hugging Face) and protects users with a **6-safeguard trust layer** (identity + QR job verification, face/liveness checks, live GPS tracking, one-tap SOS, secure chat) enforced by **PostgreSQL Row Level Security**. Ships with a **Spring Boot + Vaadin admin portal** and 3 Figma-prototyped user journeys.
 
 `Flutter` `Supabase` `PostGIS` `RLS` `Edge Functions` `Spring Boot` `Vaadin` `Deepgram` `Groq` `Gemini`
 
-[![Source](https://img.shields.io/badge/SOURCE-UDYOGASETHU%20(APP%20%2B%20ADMIN)-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=07040d)](https://github.com/chethankp365/UdyogaSethu) [![APK](https://img.shields.io/badge/📱%20MOBILE%20APK-DOWNLOAD-FFD400?style=for-the-badge&labelColor=07040d)](https://drive.google.com/file/d/1f6fvaAMZZhQ-E97YEeMnLMw5GF81H0Qy/view) [![Admin](https://img.shields.io/badge/▶%20ADMIN%20PORTAL-LIVE-9B4DFF?style=for-the-badge&labelColor=07040d)](https://udyogasethu-admin.onrender.com/)
+[![Source](https://img.shields.io/badge/SOURCE-UDYOGASETHU%20(APP%20%2B%20ADMIN)-05D9E8?style=for-the-badge&logo=github&logoColor=black&labelColor=05010c)](https://github.com/chethankp365/UdyogaSethu) [![APK](https://img.shields.io/badge/📱%20MOBILE%20APK-DOWNLOAD-FFB347?style=for-the-badge&labelColor=05010c)](https://drive.google.com/file/d/1f6fvaAMZZhQ-E97YEeMnLMw5GF81H0Qy/view) [![Admin](https://img.shields.io/badge/▶%20ADMIN%20PORTAL-LIVE-7B2FF7?style=for-the-badge&labelColor=05010c)](https://udyogasethu-admin.onrender.com/)
 
 <details>
 <summary><b>🧠 Deep dive: the trust layer</b></summary>
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#12062a','primaryBorderColor':'#ff2a6d','primaryTextColor':'#e8f7ff','lineColor':'#05d9e8','secondaryColor':'#1b0a36','tertiaryColor':'#05010c'}}}%%
 flowchart LR
     U([Worker / Farmer / Customer]) --> V{Identity<br/>verified?}
     V -- yes --> Q[QR job<br/>verification]
@@ -111,7 +113,7 @@ Transcribes **ATC radio**, extracts flight instructions and catches **incorrect 
 
 `React` `TypeScript` `Python` `Whisper` `FastAPI` `Supabase` `Gemini` `Groq`
 
-[![Source](https://img.shields.io/badge/SOURCE-SAFECOMM-9B4DFF?style=for-the-badge&logo=github&labelColor=07040d)](https://github.com/chethankp365/SafeComm) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-safecomm.vercel.app-39FF14?style=for-the-badge&labelColor=07040d)](https://safecomm.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-SAFECOMM-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=05010c)](https://github.com/chethankp365/SafeComm) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-safecomm.vercel.app-05D9E8?style=for-the-badge&labelColor=05010c)](https://safecomm.vercel.app/)
 
 <details>
 <summary><b>🧠 Deep dive: what is a "read-back" and why does it matter?</b></summary>
@@ -119,6 +121,7 @@ Transcribes **ATC radio**, extracts flight instructions and catches **incorrect 
 A controller gives an instruction and the pilot must **read it back**. A wrong read-back that nobody catches (wrong altitude, wrong runway) is a classic root cause of incidents. SafeComm is the safety net that listens for those mismatches.
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#12062a','primaryBorderColor':'#ff2a6d','primaryTextColor':'#e8f7ff','lineColor':'#05d9e8','actorBkg':'#12062a','actorBorder':'#ff2a6d','actorTextColor':'#e8f7ff','actorLineColor':'#7b2ff7','signalColor':'#05d9e8','signalTextColor':'#e8f7ff'}}}%%
 sequenceDiagram
     participant ATC as Controller
     participant P as Pilot
@@ -140,12 +143,12 @@ sequenceDiagram
 <!-- ============ 04 SATQUERY ============ -->
 <img src="./readme-kit/assets/flow-satquery.svg" width="100%" alt="SatQuery AI flow"/>
 
-### 🟡 ISSUE #04 · SatQuery AI — Satellite Vision-Language Assistant
+### 🟠 ISSUE #04 · SatQuery AI — Satellite Vision-Language Assistant
 Ask questions about satellite imagery in plain language. The **agentic assistant** (Gemini 2.5 VLM) routes each query to **YOLOv8 detection, SSIM/CVA change detection, NDVI/NDWI/NBR indices and SAR–optical fusion**, then answers with **evidence-grounded insights and change maps** through a COG/GeoJSON pipeline with a MongoDB audit trail. 🏆 **Top 4, Smart India Hackathon Internal (Software Edition).**
 
 `React` `TypeScript` `Python` `Gemini 2.5` `YOLOv8` `GDAL / GeoTIFF` `MongoDB`
 
-[![Source](https://img.shields.io/badge/SOURCE-SATQUERY--AI-FFD400?style=for-the-badge&logo=github&logoColor=black&labelColor=07040d)](https://github.com/chethankp365/SatQuery-AI) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-sat--query--ai-39FF14?style=for-the-badge&labelColor=07040d)](https://sat-query-ai-murex.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-SATQUERY--AI-FFB347?style=for-the-badge&logo=github&logoColor=black&labelColor=05010c)](https://github.com/chethankp365/SatQuery-AI) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-sat--query--ai-05D9E8?style=for-the-badge&labelColor=05010c)](https://sat-query-ai-murex.vercel.app/)
 
 <br/>
 
@@ -157,19 +160,19 @@ Built during my **Full Stack Web Development internship** (Rotaract Club of Atri
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-[![Source](https://img.shields.io/badge/SOURCE-CAMPUSCONNECT-FF1F2D?style=for-the-badge&logo=github&labelColor=07040d)](https://github.com/chethankp365/CampusConnect) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-campus--connect-39FF14?style=for-the-badge&labelColor=07040d)](https://campus-connect-beta-weld.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-CAMPUSCONNECT-FF2A6D?style=for-the-badge&logo=github&logoColor=white&labelColor=05010c)](https://github.com/chethankp365/CampusConnect) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-campus--connect-05D9E8?style=for-the-badge&labelColor=05010c)](https://campus-connect-beta-weld.vercel.app/)
 
 <br/>
 
 <!-- ============ 06 AAHAT ============ -->
 <img src="./readme-kit/assets/flow-aahat.svg" width="100%" alt="Aahat flow"/>
 
-### 🟢 ISSUE #06 · Aahat — AI Predictive Railway Safety & Defect Digital Twin
+### 🔵 ISSUE #06 · Aahat — AI Predictive Railway Safety & Defect Digital Twin
 A multi-sensor system that **listens to the track**. It fuses **acoustic, vibration, vision and GPS** data, confirms a defect **only when two or more sensors agree**, pins it on a **digital twin**, scores severity and **forecasts when it turns critical**. The prototype runs on simulated data; real-track validation is on the roadmap.
 
 `Raspberry Pi 4` `Python` `TensorFlow Lite` `React`
 
-[![Source](https://img.shields.io/badge/SOURCE-AAHAT-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=07040d)](https://github.com/chethankp365/Aahat) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-aahat.vercel.app-FFD400?style=for-the-badge&labelColor=07040d)](https://aahat.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-AAHAT-05D9E8?style=for-the-badge&logo=github&logoColor=black&labelColor=05010c)](https://github.com/chethankp365/Aahat) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-aahat.vercel.app-FFB347?style=for-the-badge&labelColor=05010c)](https://aahat.vercel.app/)
 
 <details>
 <summary><b>🧠 Deep dive: the "2 sensors must agree" rule</b></summary>
@@ -177,6 +180,7 @@ A multi-sensor system that **listens to the track**. It fuses **acoustic, vibrat
 One noisy sensor should never stop a train. Aahat raises a defect only when independent sensors **corroborate** each other, which cuts false alarms.
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#12062a','primaryBorderColor':'#ff2a6d','primaryTextColor':'#e8f7ff','lineColor':'#05d9e8','secondaryColor':'#1b0a36','tertiaryColor':'#05010c'}}}%%
 flowchart LR
     A[Acoustic] --> E{2 or more<br/>sensors agree?}
     B[Vibration] --> E
@@ -200,17 +204,17 @@ An autonomous search & rescue drone that uses **RGB + thermal vision** to detect
 
 `TypeScript` `RGB + Thermal Vision` `Autonomous Navigation`
 
-[![Source](https://img.shields.io/badge/SOURCE-RAKSHAAN-9B4DFF?style=for-the-badge&logo=github&labelColor=07040d)](https://github.com/chethankp365/Rakshaan)
+[![Source](https://img.shields.io/badge/SOURCE-RAKSHAAN-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=05010c)](https://github.com/chethankp365/Rakshaan)
 
 <br/>
 
 <!-- ============ 08 ECOBRAIN ============ -->
 <img src="./readme-kit/assets/flow-ecobrain.svg" width="100%" alt="EcoBrain flow"/>
 
-### 🟡 ISSUE #08 · EcoBrain
+### 🟠 ISSUE #08 · EcoBrain
 The live demo is online. The full origin story is coming soon.
 
-[![Source](https://img.shields.io/badge/SOURCE-ECOBRAIN--AI-FFD400?style=for-the-badge&logo=github&logoColor=black&labelColor=07040d)](https://github.com/chethankp365/EcoBrain-AI) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-eco--brain--ai-39FF14?style=for-the-badge&labelColor=07040d)](https://eco-brain-ai.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-ECOBRAIN--AI-FFB347?style=for-the-badge&logo=github&logoColor=black&labelColor=05010c)](https://github.com/chethankp365/EcoBrain-AI) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-eco--brain--ai-05D9E8?style=for-the-badge&labelColor=05010c)](https://eco-brain-ai.vercel.app/)
 
 <img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
@@ -227,7 +231,7 @@ The live demo is online. The full origin story is coming soon.
 **🔴 Cyber Security Intern** · Cynaris Solutions Pvt. Ltd. · *Nov 2026 – Present*
 Personal Kali Linux lab with vulnerable VMs, network recon and vuln scans, OWASP Top 10 assessments, controlled exploitation and privilege escalation, digital forensics on disk images and memory dumps, and CVSS-rated pentest reports with remediation guidance.
 
-**🟡 Virtual UI/UX Design Intern** · CodSoft · *Jun 2026 – Jul 2026*
+**🟠 Virtual UI/UX Design Intern** · CodSoft · *Jun 2026 – Jul 2026*
 User flows, wireframes and interactive prototypes in Figma, refined against usability.
 
 **🟣 Full Stack Web Development Intern** · Rotaract Club of Atria I.T. × Dept. of CSE · *Mar 2025 – Jun 2025*
@@ -245,12 +249,12 @@ Built **Campus Connect** on the MERN stack and ranked Top 8 of 60+ projects.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chethankp365&show_icons=true&hide_border=true&bg_color=07040d&title_color=39FF14&icon_color=FF1F2D&text_color=F7F7F2&ring_color=39FF14&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethankp365&layout=compact&hide_border=true&bg_color=07040d&title_color=39FF14&text_color=F7F7F2" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chethankp365&show_icons=true&hide_border=true&bg_color=05010c&title_color=05D9E8&icon_color=FF2A6D&text_color=E8F7FF&ring_color=05D9E8&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethankp365&layout=compact&hide_border=true&bg_color=05010c&title_color=05D9E8&text_color=E8F7FF" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=chethankp365&background=07040D&ring=39FF14&fire=FF1F2D&currStreakLabel=39FF14&sideLabels=F7F7F2&currStreakNum=F7F7F2&sideNums=F7F7F2&dates=a49fba&border=39FF1455" alt="Streak stats" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=chethankp365&background=05010C&ring=FF2A6D&fire=FFB347&currStreakLabel=05D9E8&sideLabels=E8F7FF&currStreakNum=E8F7FF&sideNums=E8F7FF&dates=A49FBA&border=FF2A6D55" alt="Streak stats" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chethankp365&bg_color=07040d&color=39FF14&line=39FF14&point=FF1F2D&area=true&area_color=39FF14&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chethankp365&bg_color=05010c&color=05D9E8&line=FF2A6D&point=FFB347&area=true&area_color=7B2FF7&hide_border=true&custom_title=Contribution%20Pulse" alt="Contribution graph" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/chethankp365/chethankp365/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
