@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/EMAIL-chethankp365%40gmail.com-FF1F2D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07040d)](mailto:chethankp365@gmail.com)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-9B4DFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=07040d)](https://www.youtube.com/@CHETHANKUMARKP-v6w)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-chethankumarkp__-9B4DFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=07040d)](https://www.instagram.com/chethankumarkp_/)
-[![Resume](https://img.shields.io/badge/RESUME-VIEW%20CV-FFD400?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=07040d)](https://drive.google.com/file/d/1ql_ltsz6ATxShFthLh8isdJ55G_tSCTB/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/RESUME-VIEW%20CV-FFD400?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=07040d)](https://drive.google.com/file/d/1bOg28m0o9IqXhGO5m-O3vELJD3_1_ZJ-/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=chethankp365&style=for-the-badge&color=39FF14&label=AUDIENCE&labelColor=07040d" alt="profile views"/>
 
