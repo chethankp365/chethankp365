@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="CHETHAN KUMAR KP — cinematic title card" width="100%"/>
+<img src="./readme-kit/assets/banner.svg" alt="CHETHAN KUMAR KP — cinematic title card" width="100%"/>
 
 <br/>
 
@@ -16,28 +16,28 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-origin.svg" width="100%" alt="Chapter 00 — Origin Story"/>
+<img src="./readme-kit/assets/h-origin.svg" width="100%" alt="Chapter 00 — Origin Story"/>
 
-<img src="./assets/intro.svg" width="100%" alt="Comic page: he builds things that see, listen and defend"/>
+<img src="./readme-kit/assets/intro.svg" width="100%" alt="Comic page: he builds things that see, listen and defend"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-metrics.svg" width="100%" alt="Chapter 01 — Power Stats"/>
+<img src="./readme-kit/assets/h-metrics.svg" width="100%" alt="Chapter 01 — Power Stats"/>
 
-<img src="./assets/metrics.svg" width="100%" alt="8 projects, 5 AI services, 80 lab rooms, 168 tests passing, ~2s detection, Top 4 SIH internal"/>
+<img src="./readme-kit/assets/metrics.svg" width="100%" alt="8 projects, 5 AI services, 80 lab rooms, 168 tests passing, ~2s detection, Top 4 SIH internal"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-projects.svg" width="100%" alt="Chapter 02 — The Missions"/>
+<img src="./readme-kit/assets/h-projects.svg" width="100%" alt="Chapter 02 — The Missions"/>
 
 > 🎬 **How to read this chapter:** every mission has a flow diagram. Follow the glowing packet left to right and wait for the sound effect at the end. Expand the **🧠 deep dive** under a mission to see how the theory works.
 
 <br/>
 
 <!-- ============ 01 NO ENTRY ============ -->
-<img src="./assets/flow-noentry.svg" width="100%" alt="NO ENTRY flow"/>
+<img src="./readme-kit/assets/flow-noentry.svg" width="100%" alt="NO ENTRY flow"/>
 
 ### 🔴 ISSUE #01 · NO ENTRY — AI-Powered Cybersecurity Training Platform & Isolated Cyber Range
 An **80-room training platform across 4 tracks** (Red, Blue, Purple, Detection Engineering). Learners run **real commands inside live Docker containers**, not fake terminal output. All **20 Red Team rooms** are built (recon, SQL injection, XSS, command injection, privilege escalation and more), guided by **GHOST**, a multi-provider AI mentor, and backed by **168 passing automated tests**.
@@ -72,7 +72,7 @@ sequenceDiagram
 <br/>
 
 <!-- ============ 02 UDYOGASETHU ============ -->
-<img src="./assets/flow-udyogasethu.svg" width="100%" alt="UdyogaSethu flow"/>
+<img src="./readme-kit/assets/flow-udyogasethu.svg" width="100%" alt="UdyogaSethu flow"/>
 
 ### 🟢 ISSUE #02 · UdyogaSethu — Multilingual Workforce & Farm Marketplace
 A **voice-first** mobile platform connecting informal workers and small farmers with customers through **GPS-based matching** and farm-to-consumer commerce. It orchestrates **5 AI services** (Deepgram, Groq, Gemini, OpenRouter, Hugging Face) and protects users with a **6-safeguard trust layer** (identity + QR job verification, face/liveness checks, live GPS tracking, one-tap SOS, secure chat) enforced by **PostgreSQL Row Level Security**. Ships with a **Spring Boot + Vaadin admin portal** and 3 Figma-prototyped user journeys.
@@ -104,7 +104,7 @@ flowchart LR
 <br/>
 
 <!-- ============ 03 SAFECOMM ============ -->
-<img src="./assets/flow-safecomm.svg" width="100%" alt="SafeComm flow"/>
+<img src="./readme-kit/assets/flow-safecomm.svg" width="100%" alt="SafeComm flow"/>
 
 ### 🟣 ISSUE #03 · SafeComm — Real-Time Aviation Speech AI
 Transcribes **ATC radio**, extracts flight instructions and catches **incorrect pilot read-backs within ~2 seconds**, with a **sub-5 ms local regex fallback**. Alerts are cross-checked against live **ADS-B and ATIS** data with confidence-aware scoring, and the monitoring dashboard ships with error-injection testing.
@@ -138,7 +138,7 @@ sequenceDiagram
 <br/>
 
 <!-- ============ 04 SATQUERY ============ -->
-<img src="./assets/flow-satquery.svg" width="100%" alt="SatQuery AI flow"/>
+<img src="./readme-kit/assets/flow-satquery.svg" width="100%" alt="SatQuery AI flow"/>
 
 ### 🟡 ISSUE #04 · SatQuery AI — Satellite Vision-Language Assistant
 Ask questions about satellite imagery in plain language. The **agentic assistant** (Gemini 2.5 VLM) routes each query to **YOLOv8 detection, SSIM/CVA change detection, NDVI/NDWI/NBR indices and SAR–optical fusion**, then answers with **evidence-grounded insights and change maps** through a COG/GeoJSON pipeline with a MongoDB audit trail. 🏆 **Top 4, Smart India Hackathon Internal (Software Edition).**
@@ -150,7 +150,7 @@ Ask questions about satellite imagery in plain language. The **agentic assistant
 <br/>
 
 <!-- ============ 05 CAMPUS CONNECT ============ -->
-<img src="./assets/flow-campusconnect.svg" width="100%" alt="Campus Connect flow"/>
+<img src="./readme-kit/assets/flow-campusconnect.svg" width="100%" alt="Campus Connect flow"/>
 
 ### 🔴 ISSUE #05 · Campus Connect — Full-Stack Campus Communication Platform
 Built during my **Full Stack Web Development internship** (Rotaract Club of Atria I.T. × Dept. of CSE) on the **MERN stack**. Ranked 🏅 **Top 8 of 60+ projects** in the cohort.
@@ -162,7 +162,7 @@ Built during my **Full Stack Web Development internship** (Rotaract Club of Atri
 <br/>
 
 <!-- ============ 06 AAHAT ============ -->
-<img src="./assets/flow-aahat.svg" width="100%" alt="Aahat flow"/>
+<img src="./readme-kit/assets/flow-aahat.svg" width="100%" alt="Aahat flow"/>
 
 ### 🟢 ISSUE #06 · Aahat — AI Predictive Railway Safety & Defect Digital Twin
 A multi-sensor system that **listens to the track**. It fuses **acoustic, vibration, vision and GPS** data, confirms a defect **only when two or more sensors agree**, pins it on a **digital twin**, scores severity and **forecasts when it turns critical**. The prototype runs on simulated data; real-track validation is on the roadmap.
@@ -193,7 +193,7 @@ flowchart LR
 <br/>
 
 <!-- ============ 07 RAKSHAAN ============ -->
-<img src="./assets/flow-rakshaan.svg" width="100%" alt="Rakshaan flow"/>
+<img src="./readme-kit/assets/flow-rakshaan.svg" width="100%" alt="Rakshaan flow"/>
 
 ### 🟣 ISSUE #07 · Rakshaan — AI-Powered Autonomous Disaster-Response Drone
 An autonomous search & rescue drone that uses **RGB + thermal vision** to detect survivors and hazards while navigating difficult terrain, then sends **survivor locations, hazards and risk information** to rescue teams in real time. Built for **SIH 2026**.
@@ -205,24 +205,24 @@ An autonomous search & rescue drone that uses **RGB + thermal vision** to detect
 <br/>
 
 <!-- ============ 08 ECOBRAIN ============ -->
-<img src="./assets/flow-ecobrain.svg" width="100%" alt="EcoBrain flow"/>
+<img src="./readme-kit/assets/flow-ecobrain.svg" width="100%" alt="EcoBrain flow"/>
 
 ### 🟡 ISSUE #08 · EcoBrain
 The live demo is online. The full origin story is coming soon.
 
 [![Source](https://img.shields.io/badge/SOURCE-ECOBRAIN--AI-FFD400?style=for-the-badge&logo=github&logoColor=black&labelColor=07040d)](https://github.com/chethankp365/EcoBrain-AI) [![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-eco--brain--ai-39FF14?style=for-the-badge&labelColor=07040d)](https://eco-brain-ai.vercel.app/)
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-arsenal.svg" width="100%" alt="Chapter 03 — The Arsenal"/>
+<img src="./readme-kit/assets/h-arsenal.svg" width="100%" alt="Chapter 03 — The Arsenal"/>
 
-<img src="./assets/skills.svg" width="100%" alt="Skills: cybersecurity, AI/ML, languages, web and backend, data, tools and optimization"/>
+<img src="./readme-kit/assets/skills.svg" width="100%" alt="Skills: cybersecurity, AI/ML, languages, web and backend, data, tools and optimization"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-journey.svg" width="100%" alt="Chapter 04 — Origin to Now"/>
+<img src="./readme-kit/assets/h-journey.svg" width="100%" alt="Chapter 04 — Origin to Now"/>
 
-<img src="./assets/journey.svg" width="100%" alt="Timeline: B.E. 2023, Full Stack Intern 2025, UI/UX Intern 2026, Cyber Security Intern Nov 2026 to now, Graduation 2027"/>
+<img src="./readme-kit/assets/journey.svg" width="100%" alt="Timeline: B.E. 2023, Full Stack Intern 2025, UI/UX Intern 2026, Cyber Security Intern Nov 2026 to now, Graduation 2027"/>
 
 **🔴 Cyber Security Intern** · Cynaris Solutions Pvt. Ltd. · *Nov 2026 – Present*
 Personal Kali Linux lab with vulnerable VMs, network recon and vuln scans, OWASP Top 10 assessments, controlled exploitation and privilege escalation, digital forensics on disk images and memory dumps, and CVSS-rated pentest reports with remediation guidance.
@@ -233,15 +233,15 @@ User flows, wireframes and interactive prototypes in Figma, refined against usab
 **🟣 Full Stack Web Development Intern** · Rotaract Club of Atria I.T. × Dept. of CSE · *Mar 2025 – Jun 2025*
 Built **Campus Connect** on the MERN stack and ranked Top 8 of 60+ projects.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-loop.svg" width="100%" alt="Chapter 05 — The Build Loop"/>
+<img src="./readme-kit/assets/h-loop.svg" width="100%" alt="Chapter 05 — The Build Loop"/>
 
-<img src="./assets/build-loop.svg" width="100%" alt="Build loop: understand, research, prototype, attack it, ship live, iterate"/>
+<img src="./readme-kit/assets/build-loop.svg" width="100%" alt="Build loop: understand, research, prototype, attack it, ship live, iterate"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-stats.svg" width="100%" alt="Chapter 06 — Telemetry"/>
+<img src="./readme-kit/assets/h-stats.svg" width="100%" alt="Chapter 06 — Telemetry"/>
 
 <div align="center">
 
@@ -256,9 +256,9 @@ Built **Campus Connect** on the MERN stack and ranked Top 8 of 60+ projects.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-certs.svg" width="100%" alt="Chapter 07 — Training Montage"/>
+<img src="./readme-kit/assets/h-certs.svg" width="100%" alt="Chapter 07 — Training Montage"/>
 
 | 🎖️ Certification | 🏛️ Issued by |
 |---|---|
@@ -269,10 +269,10 @@ Built **Campus Connect** on the MERN stack and ranked Top 8 of 60+ projects.
 | Java Spring Boot Backend Development | Coursera |
 | Programming in C · Programming Using Java | Infosys Springboard |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./readme-kit/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-connect.svg" width="100%" alt="Final scene — Post-credits"/>
+<img src="./readme-kit/assets/h-connect.svg" width="100%" alt="Final scene — Post-credits"/>
 
 Stay for the post-credits scene: I'm open to **internships, collaborations and conversations** about AI, computer vision, cybersecurity, backend and optimization. The fastest way to reach me is [email](mailto:chethankp365@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chethan-kumar-kp17/). You can also browse my [portfolio](https://chethankumar-portfolio.vercel.app/) or read my [resume](https://drive.google.com/file/d/1ql_ltsz6ATxShFthLh8isdJ55G_tSCTB/view?usp=sharing).
 
-<img src="./assets/footer.svg" width="100%" alt="To be continued"/>
+<img src="./readme-kit/assets/footer.svg" width="100%" alt="To be continued"/>
