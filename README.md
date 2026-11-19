@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-34d399?style=for-the-badge&logo=vercel&logoColor=0a0e0c&labelColor=0a0e0c)](https://chethankumar-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-34d399?style=for-the-badge&logo=linkedin&logoColor=34d399&labelColor=0a0e0c)](https://www.linkedin.com/in/chethan-kumar-kp17/)
 [![Email](https://img.shields.io/badge/Email-chethankp365%40gmail.com-34d399?style=for-the-badge&logo=gmail&logoColor=34d399&labelColor=0a0e0c)](mailto:chethankp365@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-34d399?style=for-the-badge&logo=googledrive&logoColor=34d399&labelColor=0a0e0c)](https://drive.google.com/file/d/1ql_ltsz6ATxShFthLh8isdJ55G_tSCTB/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-34d399?style=for-the-badge&logo=googledrive&logoColor=34d399&labelColor=0a0e0c)](https://drive.google.com/file/d/1bOg28m0o9IqXhGO5m-O3vELJD3_1_ZJ-/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-34d399?style=for-the-badge&logo=youtube&logoColor=34d399&labelColor=0a0e0c)](https://www.youtube.com/@CHETHANKUMARKP-v6w)
 [![Instagram](https://img.shields.io/badge/Instagram-chethankumarkp__-34d399?style=for-the-badge&logo=instagram&logoColor=34d399&labelColor=0a0e0c)](https://www.instagram.com/chethankumarkp_/)
 
