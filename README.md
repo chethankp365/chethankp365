@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/banner.svg" alt="Chethan Kumar KP — AI, computer vision, cybersecurity and backend" width="100%"/>
+<img src="./assets/banner.svg" alt="Chethan Kumar KP — AI, computer vision, cybersecurity and backend" width="100%"/>
 
 <br/>
 
@@ -13,11 +13,13 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/film.svg" width="100%" alt="Now showing: a scrolling film strip of eight projects"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-about.svg" width="100%" alt="About"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/about.svg" width="100%" alt="Focus: AI and computer vision, speech AI, backend, security. Currently: Cyber Security Intern at Cynaris Solutions. Education: B.E. CSE and Design Engineering, Atria IT"/>
+<img src="./assets/h-about.svg" width="100%" alt="About"/>
+
+<img src="./assets/about.svg" width="100%" alt="Focus: AI and computer vision, speech AI, backend, security. Currently: Cyber Security Intern at Cynaris Solutions. Education: B.E. CSE and Design Engineering, Atria IT"/>
 
 <br/>
 
@@ -25,22 +27,22 @@ I'm a final-year Computer Science & Design Engineering student in Bengaluru. I b
 
 I'm currently a **Cyber Security Intern at Cynaris Solutions**, working on a Kali Linux lab, OWASP Top 10 assessments, controlled exploitation, digital forensics and CVSS-rated penetration testing reports, while building **NO ENTRY**, an AI-powered cyber range.
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-highlights.svg" width="100%" alt="Highlights"/>
+<img src="./assets/h-highlights.svg" width="100%" alt="Highlights"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/metrics.svg" width="100%" alt="8 projects, 5 AI services, 80 lab rooms, 168 tests passing, ~2s detection, Top 4 SIH internal"/>
+<img src="./assets/metrics.svg" width="100%" alt="8 projects, 5 AI services, 80 lab rooms, 168 tests passing, ~2s detection, Top 4 SIH internal"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-projects.svg" width="100%" alt="Projects"/>
+<img src="./assets/h-projects.svg" width="100%" alt="Projects"/>
 
 Each project includes an animated architecture flow. Where a concept needs more explanation, expand the **Technical notes** section underneath it.
 
 <br/>
 
 <!-- ============ 01 NO ENTRY ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-noentry.svg" width="100%" alt="NO ENTRY architecture flow"/>
+<img src="./assets/flow-noentry.svg" width="100%" alt="NO ENTRY architecture flow"/>
 
 ### NO ENTRY — AI-Powered Cybersecurity Training Platform & Isolated Cyber Range
 An 80-room training platform across four tracks (Red Team, Blue Team, Purple Team, Detection Engineering). Learners run **real commands inside live Docker containers** rather than simulated terminals. All 20 Red Team rooms are implemented (reconnaissance, SQL injection, XSS, command injection, privilege escalation and more), supported by **GHOST**, a multi-provider AI mentor, and validated by **168 passing automated tests**.
@@ -75,7 +77,7 @@ sequenceDiagram
 <br/>
 
 <!-- ============ 02 UDYOGASETHU ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-udyogasethu.svg" width="100%" alt="UdyogaSethu architecture flow"/>
+<img src="./assets/flow-udyogasethu.svg" width="100%" alt="UdyogaSethu architecture flow"/>
 
 ### UdyogaSethu — Multilingual Workforce & Farm Marketplace
 A voice-first mobile platform connecting informal workers and small farmers with customers through **GPS-based service matching** and farm-to-consumer commerce. It integrates **five AI services** (Deepgram, Groq, Gemini, OpenRouter, Hugging Face) and applies a **six-safeguard trust and safety layer**: identity and QR job verification, face/liveness checks, live GPS tracking, one-tap SOS and secure chat, enforced with PostgreSQL Row Level Security. Includes a Spring Boot + Vaadin admin portal and three Figma-prototyped user journeys.
@@ -107,7 +109,7 @@ flowchart LR
 <br/>
 
 <!-- ============ 03 SAFECOMM ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-safecomm.svg" width="100%" alt="SafeComm architecture flow"/>
+<img src="./assets/flow-safecomm.svg" width="100%" alt="SafeComm architecture flow"/>
 
 ### SafeComm — Real-Time Aviation Speech AI
 Transcribes ATC radio, extracts flight instructions and detects **incorrect pilot read-backs within about 2 seconds**, with a sub-5 ms local regex fallback. Alerts are cross-checked against live ADS-B and ATIS data using confidence-aware scoring, and the monitoring dashboard includes error-injection testing.
@@ -141,7 +143,7 @@ sequenceDiagram
 <br/>
 
 <!-- ============ 04 SATQUERY ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-satquery.svg" width="100%" alt="SatQuery AI architecture flow"/>
+<img src="./assets/flow-satquery.svg" width="100%" alt="SatQuery AI architecture flow"/>
 
 ### SatQuery AI — Satellite Vision-Language Assistant
 Ask questions about satellite imagery in plain language. An agentic assistant (Gemini 2.5 VLM) routes each query to **YOLOv8 detection, SSIM/CVA change detection, NDVI/NDWI/NBR indices and SAR–optical fusion**, then returns evidence-grounded insights and change maps through a COG/GeoJSON pipeline with a MongoDB audit trail. **Top 4, Smart India Hackathon Internal (Software Edition).**
@@ -153,7 +155,7 @@ Ask questions about satellite imagery in plain language. An agentic assistant (G
 <br/>
 
 <!-- ============ 05 CAMPUS CONNECT ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-campusconnect.svg" width="100%" alt="Campus Connect architecture flow"/>
+<img src="./assets/flow-campusconnect.svg" width="100%" alt="Campus Connect architecture flow"/>
 
 ### Campus Connect — Full-Stack Campus Communication Platform
 Built during my Full Stack Web Development internship (Rotaract Club of Atria I.T. × Dept. of CSE) on the MERN stack. Ranked in the **Top 8 of 60+ projects** in the cohort.
@@ -165,7 +167,7 @@ Built during my Full Stack Web Development internship (Rotaract Club of Atria I.
 <br/>
 
 <!-- ============ 06 AAHAT ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-aahat.svg" width="100%" alt="Aahat architecture flow"/>
+<img src="./assets/flow-aahat.svg" width="100%" alt="Aahat architecture flow"/>
 
 ### Aahat — AI Predictive Railway Safety & Defect Digital Twin
 A multi-sensor system that "listens" to the track. It fuses **acoustic, vibration, vision and GPS** data, confirms a defect only when **two or more sensors agree**, pins it on a **digital twin**, scores severity and **forecasts when it becomes critical**. The prototype runs on simulated data; real-track validation is on the roadmap.
@@ -196,7 +198,7 @@ flowchart LR
 <br/>
 
 <!-- ============ 07 RAKSHAAN ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-rakshaan.svg" width="100%" alt="Rakshaan architecture flow"/>
+<img src="./assets/flow-rakshaan.svg" width="100%" alt="Rakshaan architecture flow"/>
 
 ### Rakshaan — AI-Powered Autonomous Disaster-Response Drone
 An autonomous search-and-rescue drone that uses **RGB and thermal vision** to detect survivors and hazards while navigating difficult terrain, and sends survivor locations, hazards and risk information to rescue teams in real time. Built for SIH 2026.
@@ -208,24 +210,24 @@ An autonomous search-and-rescue drone that uses **RGB and thermal vision** to de
 <br/>
 
 <!-- ============ 08 ECOBRAIN ============ -->
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/flow-ecobrain.svg" width="100%" alt="EcoBrain flow"/>
+<img src="./assets/flow-ecobrain.svg" width="100%" alt="EcoBrain flow"/>
 
 ### EcoBrain
 A live demo is available. A full write-up is coming soon.
 
 [![Source](https://img.shields.io/badge/Source-EcoBrain--AI-34d399?style=flat-square&logo=github&logoColor=34d399&labelColor=0a0e0c)](https://github.com/chethankp365/EcoBrain-AI) [![Live demo](https://img.shields.io/badge/Live%20demo-eco--brain--ai-22d3ee?style=flat-square&labelColor=0a0e0c)](https://eco-brain-ai.vercel.app/)
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-skills.svg" width="100%" alt="Skills"/>
+<img src="./assets/h-skills.svg" width="100%" alt="Skills"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/skills.svg" width="100%" alt="Skills: cybersecurity, AI and ML, languages, web and backend, data, tools and optimization"/>
+<img src="./assets/skills.svg" width="100%" alt="Skills: cybersecurity, AI and ML, languages, web and backend, data, tools and optimization"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-experience.svg" width="100%" alt="Experience"/>
+<img src="./assets/h-experience.svg" width="100%" alt="Experience"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/journey.svg" width="100%" alt="Timeline: B.E. 2023, Full Stack Intern 2025, UI/UX Intern 2026, Cyber Security Intern Nov 2026 to present, Graduation 2027"/>
+<img src="./assets/journey.svg" width="100%" alt="Timeline: B.E. 2023, Full Stack Intern 2025, UI/UX Intern 2026, Cyber Security Intern Nov 2026 to present, Graduation 2027"/>
 
 **Cyber Security Intern** · Cynaris Solutions Pvt. Ltd. · *Nov 2026 – Present*
 Personal Kali Linux lab with vulnerable VMs; network reconnaissance and vulnerability scans; OWASP Top 10 assessments; controlled exploitation and privilege escalation; digital forensics on disk images and memory dumps; CVSS-rated penetration testing reports with remediation guidance.
@@ -236,15 +238,15 @@ User flows, wireframes and interactive prototypes in Figma, refined against usab
 **Full Stack Web Development Intern** · Rotaract Club of Atria I.T. × Dept. of CSE · *Mar 2025 – Jun 2025*
 Built Campus Connect on the MERN stack; ranked Top 8 of 60+ projects.
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-process.svg" width="100%" alt="Process"/>
+<img src="./assets/h-process.svg" width="100%" alt="Process"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/build-loop.svg" width="100%" alt="Build loop: understand, research, prototype, test and harden, ship, iterate"/>
+<img src="./assets/build-loop.svg" width="100%" alt="Build loop: understand, research, prototype, test and harden, ship, iterate"/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-activity.svg" width="100%" alt="GitHub activity"/>
+<img src="./assets/h-activity.svg" width="100%" alt="GitHub activity"/>
 
 <div align="center">
 
@@ -259,9 +261,9 @@ Built Campus Connect on the MERN stack; ranked Top 8 of 60+ projects.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-certs.svg" width="100%" alt="Certifications"/>
+<img src="./assets/h-certs.svg" width="100%" alt="Certifications"/>
 
 | Certification | Issued by |
 |---|---|
@@ -272,10 +274,10 @@ Built Campus Connect on the MERN stack; ranked Top 8 of 60+ projects.
 | Java Spring Boot Backend Development | Coursera |
 | Programming in C · Programming Using Java | Infosys Springboard |
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/divider.svg" width="100%" alt=""/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/h-contact.svg" width="100%" alt="Contact"/>
+<img src="./assets/h-contact.svg" width="100%" alt="Contact"/>
 
 I'm open to internships, collaborations and conversations about AI, computer vision, cybersecurity, backend engineering and optimization. The best ways to reach me are [email](mailto:chethankp365@gmail.com) and [LinkedIn](https://www.linkedin.com/in/chethan-kumar-kp17/). You can also visit my [portfolio](https://chethankumar-portfolio.vercel.app/) or view my [resume](https://drive.google.com/file/d/1ql_ltsz6ATxShFthLh8isdJ55G_tSCTB/view?usp=sharing).
 
-<img src="https://raw.githubusercontent.com/chethankp365/chethankp365/main/readme-kit%20(2)/assets/footer.svg" width="100%" alt="More projects in progress"/>
+<img src="./assets/footer.svg" width="100%" alt="More projects in progress"/>
